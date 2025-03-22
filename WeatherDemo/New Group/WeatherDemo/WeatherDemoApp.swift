@@ -1,14 +1,14 @@
 //
-//  weatherappApp.swift
-//  weatherapp
+//  WeatherDemoApp.swift
+//  WeatherDemo
 //
-//  Created by Burak  on 1.03.2025.
+//  Created by Burak  on 22.03.2025.
 //
 
 import SwiftUI
 
 @main
-struct weatherappApp: App {
+struct WeatherDemoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
